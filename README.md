@@ -324,3 +324,5 @@ dots.tts code and released checkpoints are licensed under [Apache-2.0](LICENSE).
 - [DiTAR](https://arxiv.org/abs/2502.03930) and [ARDiT](https://arxiv.org/abs/2406.05551) — for the continuous-AR + per-patch diffusion design.
 - [BigVGAN](https://github.com/NVIDIA/BigVGAN) — for the vocoder design.
 - [CAM++](https://github.com/alibaba-damo-academy/3D-Speaker) — for speaker x-vector encoder.
+
+Repository: https://github.com/sitex/soft-dots-tts
