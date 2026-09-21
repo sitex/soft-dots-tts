@@ -6,6 +6,7 @@
   "model_profile": "inherit",
   "workflow": {
     "research": false,
+    "ai_integration_phase": true,
     "plan_check": true,
     "verifier": true,
     "nyquist_validation": false
